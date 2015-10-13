@@ -1,2 +1,2 @@
 # seezer
-Pronouncable ceaser ciphers
+Pronouncable caeser ciphers
