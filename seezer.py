@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+
+#  Seezer: Pronouncable caeser ciphers
+#  Usage: `$ python caeser.py` or `>>> import seezer; seezer.encipher(string,key)`
+
+#  (c) Copyright 2015 Nathan Krantz-Fire (a.k.a zippynk). Some rights reserved. https://github.com/zippynk/seezer
+
+#  This Source Code Form is subject to the terms of the Mozilla Public
+#  License, v. 2.0. If a copy of the MPL was not distributed with this
+#  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 import languages
 letterLists = languages.english # replace with your preferred language
 def encipher(string,key):
